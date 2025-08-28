@@ -27,7 +27,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am currently an MPhil student in Artificial Intelligence and Data Science at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/gs/). My research focuses on large language model and embodied intelligence, with particular interest in Vision-Language-Action (VLA) models and their applications. I aim to explore how large language models can be integrated with perception and control systems to enable robots to perform long-horizon, fine-grained tasks in open environments. My recent work involves building datasets for robotic drawing and evaluating emerging VLA architectures on complex trajectory-following benchmarks. More broadly, I am interested in multimodal learning, human-robot interaction, and the development of open-source tools that bridge natural language understanding with physical actions. My long-term goal is to contribute to advancing generalizable and adaptive robotic intelligence.
+I am currently an MPhil student in Artificial Intelligence and Data Science at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/gs/). My research focuses on large language model and embodied intelligence, with particular interest in Vision-Language-Action (VLA) models and their applications. I aim to explore how large language models can be integrated with perception and control systems to enable robots to perform long-horizon, fine-grained tasks in open environments. 
+
+My recent work involves building datasets for robotic drawing and evaluating emerging VLA architectures on complex trajectory-following benchmarks. More broadly, I am interested in multimodal learning, human-robot interaction, and the development of open-source tools that bridge natural language understanding with physical actions. My long-term goal is to contribute to advancing generalizable and adaptive robotic intelligence.
 
 
 <!--
